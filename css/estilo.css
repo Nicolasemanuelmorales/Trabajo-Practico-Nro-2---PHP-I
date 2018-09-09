@@ -1,0 +1,31 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.izquierda {
+    float: left;
+    border-right: 1px solid black;
+    margin-right: 2em;
+    text-align: center;
+    width: 10%;
+    height: 10em;
+}
+
+.derecha {
+    float: left;
+    margin: auto;
+    border: 1px solid black;
+    padding: 2em;
+}
+
+.clear {
+    clear: both;
+}
+
+.main {
+    width: 99%;
+    border: 1px solid black;
+}
